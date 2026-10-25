@@ -1,0 +1,14 @@
+{
+  "gene": "TP53",
+  "transcript_id": "NM_000546.6",
+  "genome": "hg38",
+  "chromosome": "chr17",
+  "start": 7687376,
+  "end": 7687490,
+  "coordinates": "0-based-half-open",
+  "strand": "genomic_plus",
+  "source": "https://api.genome.ucsc.edu",
+  "downloaded_at": "2026-10-24T16:16:55.234044+00:00",
+  "sha256": "658f8f40453fd9fc9c9a9f642532fed2f443000c9872b46457b759a486ad48bc",
+  "dna": "CCAATCCAGGGAAGCGTGTCACCGTCGTGGAAAGCACGCTCCCAGCCCGAACGCAAAGTGTCCCCGGAGCCCAGCAGCTACCTGCTCCCTGGACGGTGGCTCTAGACTTTTGAG"
+}

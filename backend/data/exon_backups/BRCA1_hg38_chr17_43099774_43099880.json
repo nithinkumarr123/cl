@@ -1,0 +1,14 @@
+{
+  "gene": "BRCA1",
+  "transcript_id": "NM_007294.4",
+  "genome": "hg38",
+  "chromosome": "chr17",
+  "start": 43099774,
+  "end": 43099880,
+  "coordinates": "0-based-half-open",
+  "strand": "genomic_plus",
+  "source": "https://api.genome.ucsc.edu",
+  "downloaded_at": "2026-10-24T16:16:46.016966+00:00",
+  "sha256": "fb5e0173bd1c02951f7e74135f76f206acc66cda134826a72a5f7baa19498e8e",
+  "dna": "CCAATTCAATGTAGACAGACGTCTTTTGAGGTTGTATCCGCTGCTTTGTCCTCAGAGTTCTCACAGTTCCAAGGTTAGAGAGTTGGACACTGAGACTGGTTTCCTG"
+}
